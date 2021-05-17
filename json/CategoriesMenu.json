@@ -1,0 +1,3271 @@
+{
+    "errors": [
+        
+    ],
+    "state": {
+        "rootCategories": [
+            {
+                "label": "Construcción y Ferretería ",
+                "link": "cat4850146",
+                "subCategories": [
+                    {
+                        "label": "Materiales de Construcción",
+                        "link": "/landing/cat983351/Materiales-de-Construccion",
+                        "leafCategories": [
+                            {
+                                "label": "Tabiquería",
+                                "link": "/landing/scat913791/Tabiqueria",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cemento y Complementos",
+                                "link": "/category/scat934880/Cemento-y-Complementos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fierro",
+                                "link": "/category/scat913787/Fierro",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Perfiles Acero y Metalcon",
+                                "link": "/category/cat8720059/Perfiles-Acero-y-Metalcon",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ladrillos, Bloques y Pastelones",
+                                "link": "/category/cat4850276/Ladrillos,-Bloques-y-Pastelones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Alambres, Mallas y Cercos",
+                                "link": "/landing/scat913789/Alambres,-Mallas-y-Cercos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Escaleras",
+                                "link": "/category/scat102044/Escaleras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Prefabricadas",
+                                "link": "/category/cat11020001/Prefabricadas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Techos y Aislantes",
+                        "link": "/landing/cat10860002/Techos-y-Aislantes",
+                        "leafCategories": [
+                            {
+                                "label": "Techumbre",
+                                "link": "/landing/scat913792/Techumbre",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aislantes Térmicos",
+                                "link": "/category/scat913784/Aislantes-Termicos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Barreras Humedad y Geotextiles",
+                                "link": "/category/cat4850063/Barreras-Humedad-y-Geotextiles",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Maquinarias y Herramientas Constructor",
+                        "link": "/landing/scat913783/Maquinarias-y-Herramientas-Constructor",
+                        "leafCategories": [
+                            {
+                                "label": "Betoneras y Trompos",
+                                "link": "/category/scat100035/Betoneras-y-Trompos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Rotomartillos y Demoledores",
+                                "link": "/category/cat1080069/Rotomartillos-y-Demoledores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sondas Vibradoras y Unidades Motrices",
+                                "link": "/category/cat1060016/Sondas-Vibradoras-y-Unidades-Motrices",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Placas Compactadoras",
+                                "link": "/category/cat1060014/Placas-Compactadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Carretillas y Ruedas",
+                                "link": "/category/scat913779/Carretillas-y-Ruedas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tecles y Huinches",
+                                "link": "/category/cat710296/Tecles-y-Huinches",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Chuzos",
+                                "link": "/category/scat100013/Chuzos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortadoras de Pavimento",
+                                "link": "/category/cat4850151/Cortadoras-de-Pavimento",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Palas, Picotas y Rastrillos",
+                                "link": "/category/scat100012/Palas,-Picotas-y-Rastrillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Platachos, Llanas y Planas",
+                                "link": "/category/scat102763/Platachos,-Llanas-y-Planas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Maderas y Tableros",
+                        "link": "/landing/scat913788/Maderas-y-Tableros",
+                        "leafCategories": [
+                            {
+                                "label": "Terciado",
+                                "link": "/category/scat877495/Terciado",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "OSB",
+                                "link": "/category/scat874591/OSB",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Melaminas",
+                                "link": "/category/scat934763/Melaminas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "MDF y Hardboard (Cholguan)",
+                                "link": "/category/scat877510/MDF-y-Hardboard-(Cholguan)",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Madera Seca",
+                                "link": "/category/scat934756/Madera-Seca",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Madera Verde ",
+                                "link": "/category/scat877519/Madera-Verde",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Madera Impregnada",
+                                "link": "/category/cat10530006/Madera-Impregnada",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Oregón y Nativas",
+                                "link": "/category/cat5270005/Oregon-y-Nativas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Escaleras y Pasamanos",
+                                "link": "/category/cat10530005/Escaleras-y-Pasamanos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tableros Revestimiento",
+                                "link": "/category/cat9100004/Tableros-Revestimiento",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Seguridad",
+                        "link": "/landing/scat913800/Seguridad",
+                        "leafCategories": [
+                            {
+                                "label": "Elementos de Protección Personal ",
+                                "link": "/landing/scat913754/Elementos-de-Proteccion-Personal",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Control de Acceso y Seguridad",
+                                "link": "/category/cat4850148/Control-de-Acceso-y-Seguridad",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protecciones para Puertas y Ventanas",
+                                "link": "/category/scat913804/Protecciones-para-Puertas-y-Ventanas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad de Muros",
+                                "link": "/category/cat7620005/Seguridad-de-Muros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Infantil",
+                                "link": "/category/cat400014/Seguridad-Infantil",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad para Autos",
+                                "link": "/category/scat934755/Seguridad-para-Autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Vial",
+                                "link": "/category/scat348855/Seguridad-Vial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas Fuertes",
+                                "link": "/category/scat874882/Cajas-Fuertes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cadenas, Cuerdas y Accesorios",
+                                "link": "/category/scat913772/Cadenas,-Cuerdas-y-Accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Candados",
+                                "link": "/category/scat933827/Candados",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Electricidad",
+                        "link": "/landing/scat913755/Electricidad",
+                        "leafCategories": [
+                            {
+                                "label": "Enchufe Placas y Volantes",
+                                "link": "/category/scat913808/Enchufe-Placas-y-Volantes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cables y Alambres Eléctricos",
+                                "link": "/category/scat955132/Cables-y-Alambres-Electricos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Canalización",
+                                "link": "/category/scat913810/Canalizacion",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos Eléctrico",
+                                "link": "/category/scat959640/Herramientas-y-Complementos-Electrico",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Automáticos, Tableros y Medidores",
+                                "link": "/category/scat959634/Automaticos,-Tableros-y-Medidores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Alargadores y Extensiones",
+                                "link": "/category/scat959631/Alargadores-y-Extensiones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Temporizadores, Timers y Sensores",
+                                "link": "/category/cat4850547/Temporizadores,-Timers-y-Sensores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Portalámparas y Soquetes",
+                                "link": "/category/scat959123/Portalamparas-y-Soquetes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Transformadores Eléctricos y UPS",
+                                "link": "/category/scat959635/Transformadores-Electricos-y-UPS",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Energía Solar",
+                                "link": "/category/scat964398/Energia-Solar",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Fijaciones y Adhesivos",
+                        "link": "/landing/scat913775/Fijaciones-y-Adhesivos",
+                        "leafCategories": [
+                            {
+                                "label": "Fijaciones para madera",
+                                "link": "/category/cat4850223/Fijaciones-para-madera",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Adhesivos",
+                                "link": "/category/scat963918/Adhesivos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": " Fijaciones Adhesivas",
+                                "link": "/category/cat1700010/Fijaciones-Adhesivas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Siliconas y Selladores",
+                                "link": "/category/scat359265/Siliconas-y-Selladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fijaciones para Metal",
+                                "link": "/category/cat4850224/Fijaciones-para-Metal",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fijaciones para Techos",
+                                "link": "/category/cat4850226/Fijaciones-para-Techos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fijaciones Tabiquería y Yeso Cartón",
+                                "link": "/category/cat4850225/Fijaciones-Tabiqueria-y-Yeso-Carton",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fijaciones para Concreto",
+                                "link": "/category/cat1420145/Fijaciones-para-Concreto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cintas de Reparación",
+                                "link": "/category/cat4850121/Cintas-de-Reparacion",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otras Fijaciones",
+                                "link": "/category/cat9870001/Otras-Fijaciones",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Gasfitería",
+                        "link": "/landing/scat913756/Gasfiteria",
+                        "leafCategories": [
+                            {
+                                "label": "Bombas y Motobombas",
+                                "link": "/landing/scat913817/Bombas-y-Motobombas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fosas y Estanques",
+                                "link": "/category/scat913819/Fosas-y-Estanques",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Filtros y Purificadores de Agua",
+                                "link": "/category/cat1160020/Filtros-y-Purificadores-de-Agua",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cañerías, Tubos y Fitting",
+                                "link": "/landing/scat922086/Canerias,-Tubos-y-Fitting",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Reparación de Baños y Cocinas",
+                                "link": "/category/scat913816/Reparacion-de-Banos-y-Cocinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Llaves y Válvulas de Agua y Gas",
+                                "link": "/category/scat922093/Llaves-y-Valvulas-de-Agua-y-Gas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Destapes y Drenajes",
+                                "link": "/category/scat905568/Destapes-y-Drenajes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Artículos de Alcantarillado",
+                                "link": "/category/scat905565/Articulos-de-Alcantarillado",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos de Gasfíter",
+                                "link": "/category/cat4850250/Herramientas-y-Complementos-de-Gasfiter",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Medidores de Agua y Complementos",
+                                "link": "/category/cat90033/Medidores-de-Agua-y-Complementos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Pisos, Pinturas y Terminaciones",
+                "link": "cat8840002",
+                "subCategories": [
+                    {
+                        "label": "Pisos y Revestimientos ",
+                        "link": "/landing/scat963885/Pisos-y-Revestimientos",
+                        "leafCategories": [
+                            {
+                                "label": "Cerámicas",
+                                "link": "/category/scat922339/Ceramicas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Porcelanatos",
+                                "link": "/category/scat991120/Porcelanatos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Papel Mural y Guardas",
+                                "link": "/category/scat358517/Papel-Mural-y-Guardas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Piedras y Enchapes",
+                                "link": "/category/cat2880002/Piedras-y-Enchapes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pisos flotantes",
+                                "link": "/category/scat552404/Pisos-flotantes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pisos de Madera y Deck",
+                                "link": "/category/scat552357/Pisos-de-Madera-y-Deck",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pisos Vinílicos",
+                                "link": "/category/scat102701/Pisos-Vinilicos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mosaicos y Decorados",
+                                "link": "/landing/scat991122/Mosaicos-y-Decorados",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Siding",
+                                "link": "/category/scat102031/Siding",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Complementos para Instalación de Pisos",
+                                "link": "/category/cat4850142/Complementos-para-Instalacion-de-Pisos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Pinturas",
+                        "link": "/landing/scat963903/Pinturas",
+                        "leafCategories": [
+                            {
+                                "label": "Esmaltes al agua",
+                                "link": "/category/scat359268/Esmaltes-al-agua",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pinturas para Interior",
+                                "link": "/category/cat2960097/Pinturas-para-Interior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pinturas de Exterior",
+                                "link": "/category/cat2960098/Pinturas-de-Exterior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protectores de Madera, Barnices y Stains",
+                                "link": "/category/scat963906/Protectores-de-Madera,-Barnices-y-Stains",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pinturas para Metales",
+                                "link": "/category/cat4850423/Pinturas-para-Metales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pinturas Especiales",
+                                "link": "/category/cat2960099/Pinturas-Especiales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos Pintor",
+                                "link": "/category/cat340030/Herramientas-y-Complementos-Pintor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Preparación y Reparación superficies",
+                                "link": "/category/scat868088/Preparacion-y-Reparacion-superficies",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Equipamiento para el pintor",
+                                "link": "/category/cat4850197/Equipamiento-para-el-pintor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pintura en Spray",
+                                "link": "/category/scat359276/Pintura-en-Spray",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Puertas",
+                        "link": "/landing/scat913753/Puertas",
+                        "leafCategories": [
+                            {
+                                "label": "Puertas de Interior",
+                                "link": "/category/cat2420014/Puertas-de-Interior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Puertas de Exterior",
+                                "link": "/category/cat2420013/Puertas-de-Exterior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mamparas",
+                                "link": "/category/scat989125/Mamparas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Puertas de Clóset",
+                                "link": "/category/scat913796/Puertas-de-Closet",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Marcos de Puertas",
+                                "link": "/category/cat11650001/Marcos-de-Puertas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aleros y Toldos Retráctiles",
+                                "link": "/category/cat4850027/Aleros-y-Toldos-Retractiles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Portón de Entrada",
+                                "link": "/category/cat4850505/Porton-de-Entrada",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protecciones para Puertas y Ventanas",
+                                "link": "/category/scat913804/Protecciones-para-Puertas-y-Ventanas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Ventanas",
+                        "link": "/landing/scat913799/Ventanas",
+                        "leafCategories": [
+                            {
+                                "label": "Ventanas Termopanel",
+                                "link": "/category/cat480016/Ventanas-Termopanel",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventanas de Aluminio",
+                                "link": "/category/scat428688/Ventanas-de-Aluminio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventanas de PVC",
+                                "link": "/category/scat948377/Ventanas-de-PVC",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventanas de Madera",
+                                "link": "/category/scat428691/Ventanas-de-Madera",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventanales",
+                                "link": "/category/scat524534/Ventanales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventanas y Soluciones de Techo",
+                                "link": "/landing/scat437177/Ventanas-y-Soluciones-de-Techo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aleros y Toldos Retráctiles",
+                                "link": "/category/cat4850027/Aleros-y-Toldos-Retractiles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protecciones para Puertas y Ventanas",
+                                "link": "/category/scat913804/Protecciones-para-Puertas-y-Ventanas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Molduras y Guardapolvos",
+                                "link": "/category/cat640033/Molduras-y-Guardapolvos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Adhesivos y Fragües",
+                        "link": "/landing/scat963901/Adhesivos-y-Fragues",
+                        "leafCategories": [
+                            {
+                                "label": "Adhesivos para Cerámicas",
+                                "link": "/landing/scat935845/Adhesivos-para-Ceramicas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Adhesivos para Porcelanatos, Piedras y Enchapes",
+                                "link": "/category/cat4850020/Adhesivos-para-Porcelanatos,-Piedras-y-Enchapes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Adhesivos para Alfombras, Vinílicos y Parquet",
+                                "link": "/category/cat390005/Adhesivos-para-Alfombras,-Vinilicos-y-Parquet",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fragües",
+                                "link": "/landing/scat992486/Fragues",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Adhesivos de Contacto y Montaje ",
+                                "link": "/category/scat963919/Adhesivos-de-Contacto-y-Montaje",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Selladores Multiuso",
+                                "link": "/category/cat4850500/Selladores-Multiuso",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Limpieza",
+                        "link": "/landing/scat963514/Limpieza",
+                        "leafCategories": [
+                            {
+                                "label": "Basureros, Contenedores y Bolsas",
+                                "link": "/category/cat220008/Basureros,-Contenedores-y-Bolsas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Detergentes y Limpiadores",
+                                "link": "/category/cat4850177/Detergentes-y-Limpiadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Utensilios de aseo",
+                                "link": "/category/scat963517/Utensilios-de-aseo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Papeles y Dispensadores",
+                                "link": "/category/cat4850182/Papeles-y-Dispensadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aseo Industrial",
+                                "link": "/category/cat3230002/Aseo-Industrial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aerosoles y Ambientadores",
+                                "link": "/category/cat8120001/Aerosoles-y-Ambientadores",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Cerraduras y Quincallería",
+                        "link": "/landing/cat8720063/Cerraduras-y-Quincalleria",
+                        "leafCategories": [
+                            {
+                                "label": "Cerraduras y Chapas",
+                                "link": "/category/scat922360/Cerraduras-y-Chapas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Quincallería para Muebles y Closet",
+                                "link": "/landing/scat933823/Quincalleria-para-Muebles-y-Closet",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Quincallería para Puertas y Ventanas",
+                                "link": "/landing/scat913776/Quincalleria-para-Puertas-y-Ventanas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Manillas y Perillas",
+                                "link": "/category/scat874863/Manillas-y-Perillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Perfiles para Terminaciones",
+                                "link": "/category/cat11530005/Perfiles-para-Terminaciones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Automatización de Portones y Correderas",
+                                "link": "/category/scat102904/Automatizacion-de-Portones-y-Correderas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Seguridad",
+                        "link": "/landing/scat913800/Seguridad",
+                        "leafCategories": [
+                            {
+                                "label": "Elementos de Protección Personal ",
+                                "link": "/landing/scat913754/Elementos-de-Proteccion-Personal",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Control de Acceso y Seguridad",
+                                "link": "/category/cat4850148/Control-de-Acceso-y-Seguridad",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protecciones para Puertas y Ventanas",
+                                "link": "/category/scat913804/Protecciones-para-Puertas-y-Ventanas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad de Muros",
+                                "link": "/category/cat7620005/Seguridad-de-Muros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Infantil",
+                                "link": "/category/cat400014/Seguridad-Infantil",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad para Autos",
+                                "link": "/category/scat934755/Seguridad-para-Autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Vial",
+                                "link": "/category/scat348855/Seguridad-Vial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas Fuertes",
+                                "link": "/category/scat874882/Cajas-Fuertes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cadenas, Cuerdas y Accesorios",
+                                "link": "/category/scat913772/Cadenas,-Cuerdas-y-Accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Candados",
+                                "link": "/category/scat933827/Candados",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Herramientas y Maquinarias",
+                "link": "scat913751",
+                "subCategories": [
+                    {
+                        "label": "Herramientas Eléctricas e Inalámbricas",
+                        "link": "/landing/scat913781/Herramientas-Electricas-e-Inalambricas",
+                        "leafCategories": [
+                            {
+                                "label": "Taladros",
+                                "link": "/category/scat933729/Taladros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Rotomartillos y Demoledores",
+                                "link": "/category/cat1080069/Rotomartillos-y-Demoledores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sierras",
+                                "link": "/category/cat730002/Sierras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Esmeriles",
+                                "link": "/category/scat933727/Esmeriles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fresadoras",
+                                "link": "/category/cat580062/Fresadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lijadoras",
+                                "link": "/category/cat730006/Lijadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cepillos",
+                                "link": "/category/cat730014/Cepillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pulidoras",
+                                "link": "/category/cat750088/Pulidoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dremel y Herramientas Multipropósito ",
+                                "link": "/category/cat1100073/Dremel-y-Herramientas-Multiproposito",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios de Herramientas Eléctricas",
+                                "link": "/category/scat933724/Accesorios-de-Herramientas-Electricas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Maquinarias y Complementos",
+                        "link": "/landing/cat8720082/Maquinarias-y-Complementos",
+                        "leafCategories": [
+                            {
+                                "label": "Soldadoras y Complementos",
+                                "link": "/category/cat2960087/Soldadoras-y-Complementos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Compresores y Complementos",
+                                "link": "/category/cat4820002/Compresores-y-Complementos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Hidrolavadoras y Accesorios",
+                                "link": "/category/cat340052/Hidrolavadoras-y-Accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Generadores y Complementos",
+                                "link": "/category/scat621120/Generadores-y-Complementos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Motores",
+                                "link": "/category/cat2060036/Motores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas Neumáticas",
+                                "link": "/category/scat419050/Herramientas-Neumaticas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Maquinarias y Herramientas Constructor",
+                        "link": "/landing/scat913783/Maquinarias-y-Herramientas-Constructor",
+                        "leafCategories": [
+                            {
+                                "label": "Betoneras y Trompos",
+                                "link": "/category/scat100035/Betoneras-y-Trompos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Rotomartillos y Demoledores",
+                                "link": "/category/cat1080069/Rotomartillos-y-Demoledores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sondas Vibradoras y Unidades Motrices",
+                                "link": "/category/cat1060016/Sondas-Vibradoras-y-Unidades-Motrices",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Placas Compactadoras",
+                                "link": "/category/cat1060014/Placas-Compactadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Carretillas y Ruedas",
+                                "link": "/category/scat913779/Carretillas-y-Ruedas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tecles y Huinches",
+                                "link": "/category/cat710296/Tecles-y-Huinches",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Chuzos",
+                                "link": "/category/scat100013/Chuzos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortadoras de Pavimento",
+                                "link": "/category/cat4850151/Cortadoras-de-Pavimento",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Palas, Picotas y Rastrillos",
+                                "link": "/category/scat100012/Palas,-Picotas-y-Rastrillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Platachos, Llanas y Planas",
+                                "link": "/category/scat102763/Platachos,-Llanas-y-Planas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Cajas de Herramientas y Organizadores",
+                        "link": "/landing/scat913778/Cajas-de-Herramientas-y-Organizadores",
+                        "leafCategories": [
+                            {
+                                "label": "Equipamiento de Taller",
+                                "link": "/category/cat4850055/Equipamiento-de-Taller",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas y Maletas de Herramientas ",
+                                "link": "/category/scat878125/Cajas-y-Maletas-de-Herramientas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Carros para herramientas",
+                                "link": "/category/cat4850103/Carros-para-herramientas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cinturones Portaherramientas",
+                                "link": "/category/cat4850126/Cinturones-Portaherramientas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Carros y Transporte",
+                                "link": "/category/cat7670002/Carros-y-Transporte",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas y Maquinaria de Jardín",
+                        "link": "/landing/scat922354/Herramientas-y-Maquinaria-de-Jardin",
+                        "leafCategories": [
+                            {
+                                "label": "Motosierras",
+                                "link": "/category/cat1410062/Motosierras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortadoras de Pasto",
+                                "link": "/category/cat1450016/Cortadoras-de-Pasto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tractores",
+                                "link": "/category/scat913462/Tractores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Orilladoras y Desbrozadoras",
+                                "link": "/category/cat4930001/Orilladoras-y-Desbrozadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortasetos y Podadoras",
+                                "link": "/category/scat918832/Cortasetos-y-Podadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sopladores",
+                                "link": "/category/cat750090/Sopladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Chipeadores y Partidores de Leña",
+                                "link": "/category/scat914574/Chipeadores-y-Partidores-de-Lena",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios para Maquinaría de Jardín",
+                                "link": "/category/cat9710001/Accesorios-para-Maquinaria-de-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Motocultivadores",
+                                "link": "/category/cat4990001/Motocultivadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otras Maquinarias de Jardín",
+                                "link": "/category/cat250021/Otras-Maquinarias-de-Jardin",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas de Medición y Trazado",
+                        "link": "/landing/scat922359/Herramientas-de-Medicion-y-Trazado",
+                        "leafCategories": [
+                            {
+                                "label": "Herramientas de Precisión",
+                                "link": "/landing/scat634610/Herramientas-de-Precision",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Huinchas, Reglas y Escuadras",
+                                "link": "/category/scat100003/Huinchas,-Reglas-y-Escuadras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Medición, Nivelación y Detección Láser",
+                                "link": "/category/cat2330015/Medicion,-Nivelacion-y-Deteccion-Laser",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Plomadas, Niveles y Trazadores",
+                                "link": "/category/scat100004/Plomadas,-Niveles-y-Trazadores",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas por Especialidad",
+                        "link": "/landing/cat4820003/Herramientas-por-Especialidad",
+                        "leafCategories": [
+                            {
+                                "label": "Maquinarias y Herramientas Constructor",
+                                "link": "/landing/scat913783/Maquinarias-y-Herramientas-Constructor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos Eléctrico",
+                                "link": "/category/scat959640/Herramientas-y-Complementos-Electrico",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos de Gasfíter",
+                                "link": "/category/cat4850250/Herramientas-y-Complementos-de-Gasfiter",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Complementos Pintor",
+                                "link": "/category/cat340030/Herramientas-y-Complementos-Pintor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas de corte y accesorios",
+                                "link": "/category/cat4850253/Herramientas-de-corte-y-accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Maquinaria de Jardín",
+                                "link": "/landing/scat922354/Herramientas-y-Maquinaria-de-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas y Equipos Mecánico",
+                                "link": "/landing/scat922591/Herramientas-y-Equipos-Mecanico",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas Manuales",
+                        "link": "/landing/scat913782/Herramientas-Manuales",
+                        "leafCategories": [
+                            {
+                                "label": "Alicates y Caimanes",
+                                "link": "/category/scat326704/Alicates-y-Caimanes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sacos y Balde-Batea",
+                                "link": "/category/cat670020/Sacos-y-Balde-Batea",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dados y Llaves",
+                                "link": "/category/scat326858/Dados-y-Llaves",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Set de herramientas Manuales",
+                                "link": "/category/scat327554/Set-de-herramientas-Manuales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Serruchos y Arcos de Sierra",
+                                "link": "/landing/scat326765/Serruchos-y-Arcos-de-Sierra",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tornillos, Prensas y Sargentos",
+                                "link": "/landing/cat720031/Tornillos,-Prensas-y-Sargentos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Limas, Formones y Escofinas",
+                                "link": "/category/scat326761/Limas,-Formones-y-Escofinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Destornilladores",
+                                "link": "/category/cat720022/Destornilladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otras Herramientas Manuales",
+                                "link": "/category/cat4850374/Otras-Herramientas-Manuales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Remachadoras",
+                                "link": "/landing/cat790004/Remachadoras",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Baño, Cocina y Limpieza",
+                "link": "cat5560004",
+                "subCategories": [
+                    {
+                        "label": "Baño",
+                        "link": "/landing/cat983345/Bano",
+                        "leafCategories": [
+                            {
+                                "label": "WC - Sanitarios",
+                                "link": "/category/scat922146/WC-Sanitarios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Grifería para Baño",
+                                "link": "/category/scat874531/Griferia-para-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Calefont y Termos",
+                                "link": "/category/scat922142/Calefont-y-Termos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles de Baño",
+                                "link": "/category/scat922147/Muebles-de-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavamanos y Vanitorios",
+                                "link": "/category/scat102338/Lavamanos-y-Vanitorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tinas e Hidromasajes",
+                                "link": "/category/cat2920027/Tinas-e-Hidromasajes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Duchas y Cabinas",
+                                "link": "/category/cat4850186/Duchas-y-Cabinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Baño y Movilidad Reducida",
+                                "link": "/category/scat922150/Seguridad-Bano-y-Movilidad-Reducida",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Baños Comerciales e Institucionales",
+                                "link": "/category/cat4850057/Banos-Comerciales-e-Institucionales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Saunas y Spa",
+                                "link": "/category/cat4850498/Saunas-y-Spa",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Complementos de Baño",
+                        "link": "/landing/cat8720049/Complementos-de-Bano",
+                        "leafCategories": [
+                            {
+                                "label": "Basureros y Papeleros",
+                                "link": "/category/scat102388/Basureros-y-Papeleros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Extractores y Ventilación",
+                                "link": "/category/scat905610/Extractores-y-Ventilacion",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Papeles y Dispensadores",
+                                "link": "/category/cat4850182/Papeles-y-Dispensadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tapas y Asientos WC",
+                                "link": "/category/scat900528/Tapas-y-Asientos-WC",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Baño",
+                                "link": "/category/cat920075/Organizacion-de-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Espejos de Baño",
+                                "link": "/category/scat102337/Espejos-de-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pesas Digitales y Mecánicas",
+                                "link": "/landing/scat102389/Pesas-Digitales-y-Mecanicas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios y Textil de Baño ",
+                                "link": "/category/scat963250/Accesorios-y-Textil-de-Bano",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Cocina",
+                        "link": "/landing/cat2640001/Cocina",
+                        "leafCategories": [
+                            {
+                                "label": "Muebles de Cocina",
+                                "link": "/landing/scat913569/Muebles-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubiertas de Cocina",
+                                "link": "/category/cat2270006/Cubiertas-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavaplatos",
+                                "link": "/category/scat964417/Lavaplatos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Llave Lavaplatos y Monomando",
+                                "link": "/category/scat913669/Llave-Lavaplatos-y-Monomando",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Cocina",
+                                "link": "/category/cat1420109/Organizacion-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Refrigeradores",
+                                "link": "/category/scat915266/Refrigeradores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Encimeras Hornos y Cocinas",
+                                "link": "/landing/cat7090001/Encimeras-Hornos-y-Cocinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavavajillas",
+                                "link": "/category/scat112558/Lavavajillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Equipos de Cocina Industrial",
+                                "link": "/category/scat920820/Equipos-de-Cocina-Industrial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Extractores y Ventilación",
+                                "link": "/category/scat905610/Extractores-y-Ventilacion",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Menaje Mesa",
+                        "link": "/landing/cat10890003/Menaje-Mesa",
+                        "leafCategories": [
+                            {
+                                "label": "Juegos de Loza y Vajillas",
+                                "link": "/category/cat4850316/Juegos-de-Loza-y-Vajillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubiertos",
+                                "link": "/category/scat317784/Cubiertos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Vasos y Copas",
+                                "link": "/category/cat2960011/Vasos-y-Copas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dispensadores de Vidrio y Jarras",
+                                "link": "/category/scat317806/Dispensadores-de-Vidrio-y-Jarras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Complementos de Mesa",
+                                "link": "/category/cat4850026/Complementos-de-Mesa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bar y Cóctel",
+                                "link": "/category/cat1020008/Bar-y-Coctel",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Café y Té",
+                                "link": "/category/cat4850085/Cafe-y-Te",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Mesa",
+                                "link": "/category/cat920058/Textil-Mesa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Infantil",
+                                "link": "/category/scat915263/Menaje-Infantil",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Empresas",
+                                "link": "/category/cat11620001/Menaje-Empresas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Electrodomésticos de Cocina",
+                        "link": "/landing/cat8720051/Electrodomesticos-de-Cocina",
+                        "leafCategories": [
+                            {
+                                "label": "Licuadoras y Batidoras",
+                                "link": "/category/cat8720052/Licuadoras-y-Batidoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Microondas, Hornos y Tostadores",
+                                "link": "/category/cat8720053/Microondas,-Hornos-y-Tostadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cafeteras Eléctricas y Hervidores",
+                                "link": "/category/cat9100003/Cafeteras-Electricas-y-Hervidores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sandwicheras y Parrillas Eléctricas",
+                                "link": "/category/cat8720054/Sandwicheras-y-Parrillas-Electricas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Freidoras y Arroceras",
+                                "link": "/category/scat115138/Freidoras-y-Arroceras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sacajugos y Exprimidores",
+                                "link": "/category/scat115133/Sacajugos-y-Exprimidores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cocina Entretenida",
+                                "link": "/category/cat1060021/Cocina-Entretenida",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Procesadoras y Picadoras",
+                                "link": "/category/scat115134/Procesadoras-y-Picadoras",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Limpieza",
+                        "link": "/landing/scat963514/Limpieza",
+                        "leafCategories": [
+                            {
+                                "label": "Basureros, Contenedores y Bolsas",
+                                "link": "/category/cat220008/Basureros,-Contenedores-y-Bolsas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Detergentes y Limpiadores",
+                                "link": "/category/cat4850177/Detergentes-y-Limpiadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Utensilios de aseo",
+                                "link": "/category/scat963517/Utensilios-de-aseo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Papeles y Dispensadores",
+                                "link": "/category/cat4850182/Papeles-y-Dispensadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aseo Industrial",
+                                "link": "/category/cat3230002/Aseo-Industrial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aerosoles y Ambientadores",
+                                "link": "/category/cat8120001/Aerosoles-y-Ambientadores",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Loggia y Lavandería",
+                        "link": "/landing/cat4850313/Loggia-y-Lavanderia",
+                        "leafCategories": [
+                            {
+                                "label": "Lavaderos",
+                                "link": "/category/scat334757/Lavaderos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavandería",
+                                "link": "/category/scat913670/Lavanderia",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles de Loggia",
+                                "link": "/category/cat4850357/Muebles-de-Loggia",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios para Lavadoras",
+                                "link": "/category/cat250023/Accesorios-para-Lavadoras",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Menaje Cocina",
+                        "link": "/landing/cat10890001/Menaje-Cocina",
+                        "leafCategories": [
+                            {
+                                "label": "Baterías de Cocina y Ollas",
+                                "link": "/category/cat2960003/Baterias-de-Cocina-y-Ollas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sartenes y Woks",
+                                "link": "/category/scat317797/Sartenes-y-Woks",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fuentes y Asaderas",
+                                "link": "/category/cat4850048/Fuentes-y-Asaderas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cuchillos y Tablas",
+                                "link": "/category/cat11370003/Cuchillos-y-Tablas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Utensilios de Cocina",
+                                "link": "/category/cat260028/Utensilios-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Termos y Botellas",
+                                "link": "/category/cat11370001/Termos-y-Botellas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Conservadores y Frascos",
+                                "link": "/category/cat480048/Conservadores-y-Frascos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Repostería",
+                                "link": "/category/cat4850572/Reposteria",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Cocina",
+                                "link": "/category/scat326924/Textil-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Empresas",
+                                "link": "/category/cat11620001/Menaje-Empresas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Electrohogar y Climatización",
+                "link": "cat4850546",
+                "subCategories": [
+                    {
+                        "label": "Línea Blanca",
+                        "link": "/landing/cat3620001/Linea-Blanca",
+                        "leafCategories": [
+                            {
+                                "label": "Refrigeradores",
+                                "link": "/category/scat915266/Refrigeradores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Freezer",
+                                "link": "/category/scat112543/Freezer",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavadoras",
+                                "link": "/category/scat112555/Lavadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Secadoras",
+                                "link": "/category/scat114994/Secadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavadoras Secadoras",
+                                "link": "/category/cat1590057/Lavadoras-Secadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavavajillas",
+                                "link": "/category/scat112558/Lavavajillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Equipos de Cocina Industrial",
+                                "link": "/category/scat920820/Equipos-de-Cocina-Industrial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cocinas, Hornos y Campanas",
+                                "link": "/category/cat9100002/Cocinas,-Hornos-y-Campanas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Encimeras Hornos y Cocinas",
+                        "link": "/landing/cat7090001/Encimeras-Hornos-y-Cocinas",
+                        "leafCategories": [
+                            {
+                                "label": "Cocina a Gas",
+                                "link": "/category/scat112537/Cocina-a-Gas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Encimeras",
+                                "link": "/category/cat1560089/Encimeras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Hornos Empotrables",
+                                "link": "/category/scat112552/Hornos-Empotrables",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Combos de Cocina",
+                                "link": "/category/cat4850136/Combos-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cocinas a Leña",
+                                "link": "/category/scat963235/Cocinas-a-Lena",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Microondas y Hornos Eléctricos",
+                                "link": "/category/cat4850343/Microondas-y-Hornos-Electricos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Electrodomésticos de Cocina",
+                        "link": "/landing/cat8720051/Electrodomesticos-de-Cocina",
+                        "leafCategories": [
+                            {
+                                "label": "Licuadoras y Batidoras",
+                                "link": "/category/cat8720052/Licuadoras-y-Batidoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Microondas, Hornos y Tostadores",
+                                "link": "/category/cat8720053/Microondas,-Hornos-y-Tostadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cafeteras Eléctricas y Hervidores",
+                                "link": "/category/cat9100003/Cafeteras-Electricas-y-Hervidores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sandwicheras y Parrillas Eléctricas",
+                                "link": "/category/cat8720054/Sandwicheras-y-Parrillas-Electricas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Freidoras y Arroceras",
+                                "link": "/category/scat115138/Freidoras-y-Arroceras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sacajugos y Exprimidores",
+                                "link": "/category/scat115133/Sacajugos-y-Exprimidores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cocina Entretenida",
+                                "link": "/category/cat1060021/Cocina-Entretenida",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Procesadoras y Picadoras",
+                                "link": "/category/scat115134/Procesadoras-y-Picadoras",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Electrodomésticos del hogar",
+                        "link": "/landing/cat8720079/Electrodomesticos-del-hogar",
+                        "leafCategories": [
+                            {
+                                "label": "Aspiradoras.",
+                                "link": "/category/scat112378/Aspiradoras.",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dispensadores de Agua",
+                                "link": "/category/cat1490071/Dispensadores-de-Agua",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Planchas de Ropa",
+                                "link": "/category/scat115135/Planchas-de-Ropa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cuidado e Higiene Personal",
+                                "link": "/category/cat970001/Cuidado-e-Higiene-Personal",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Costura y Bordado de Ropa",
+                                "link": "/category/cat2040010/Costura-y-Bordado-de-Ropa",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Aire Acondicionado y Ventilación",
+                        "link": "/landing/scat964168/Aire-Acondicionado-y-Ventilacion",
+                        "leafCategories": [
+                            {
+                                "label": "Aires Acondicionados",
+                                "link": "/category/cat4780002/Aires-Acondicionados",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ventiladores ",
+                                "link": "/category/scat304665/Ventiladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Enfriadores de Aire",
+                                "link": "/category/scat882183/Enfriadores-de-Aire",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Purificadores de Aire",
+                                "link": "/category/scat414578/Purificadores-de-Aire",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Calefacción",
+                        "link": "/landing/cat1130102/Calefaccion",
+                        "leafCategories": [
+                            {
+                                "label": "Estufas",
+                                "link": "/category/scat963231/Estufas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Braseros",
+                                "link": "/category/cat520024/Braseros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Calientacamas",
+                                "link": "/category/scat299483/Calientacamas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Purificadores de Aire",
+                                "link": "/category/scat414578/Purificadores-de-Aire",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Calefont y Termos",
+                                "link": "/category/scat922142/Calefont-y-Termos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Smart Home",
+                        "link": "/landing/cat9780001/Smart-Home",
+                        "leafCategories": [
+                            {
+                                "label": "Asistentes Virtuales",
+                                "link": "/category/cat9780008/Asistentes-Virtuales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Aspiradoras y Robot Limpieza",
+                                "link": "/category/cat9780005/Aspiradoras-y-Robot-Limpieza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dispositivos Streaming",
+                                "link": "/category/cat9780010/Dispositivos-Streaming",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ecosistemas Ozom",
+                                "link": "/category/cat9780009/Ecosistemas-Ozom",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Routers y Redes",
+                                "link": "/category/cat9780011/Routers-y-Redes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Smart Iluminación y Electricidad",
+                                "link": "/category/cat9780002/Smart-Iluminacion-y-Electricidad",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Smart Jardín",
+                                "link": "/category/cat9780003/Smart-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Smart Electrohogar y Climatización",
+                                "link": "/category/cat9780004/Smart-Electrohogar-y-Climatizacion",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cámaras de Seguridad",
+                                "link": "/category/scat278238/Camaras-de-Seguridad",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Smart Cerraduras, Alarmas y Timbres",
+                                "link": "/category/cat9780006/Smart-Cerraduras,-Alarmas-y-Timbres",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Tecnología y TV",
+                        "link": "/landing/scat913749/Tecnologia-y-TV",
+                        "leafCategories": [
+                            {
+                                "label": "Computación",
+                                "link": "/landing/cat2940106/Computacion",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Celulares y Telefonía",
+                                "link": "/landing/cat3390001/Celulares-y-Telefonia",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tv y Video",
+                                "link": "/landing/cat1670043/Tv-y-Video",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Gamer",
+                                "link": "/landing/cat3550017/Gamer",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Audio",
+                                "link": "/landing/cat2940093/Audio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Audio y Video para Autos",
+                                "link": "/landing/cat2930123/Audio-y-Video-para-Autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Almacenamiento Externo",
+                                "link": "/category/cat3970001/Almacenamiento-Externo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cámaras Digitales y Drones",
+                                "link": "/category/cat3880005/Camaras-Digitales-y-Drones",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Muebles y Organización",
+                "link": "cat5560002",
+                "subCategories": [
+                    {
+                        "label": "Camas y Colchones",
+                        "link": "/landing/scat962687/Camas-y-Colchones",
+                        "leafCategories": [
+                            {
+                                "label": "Cama 1 plaza",
+                                "link": "/category/cat9990001/Cama-1-plaza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cama 1.5 plaza",
+                                "link": "/category/cat9990002/Cama-1.5-plaza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas 2 plazas",
+                                "link": "/category/cat9990004/Camas-2-plazas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas",
+                                "link": "/category/scat526798/Camas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Colchones",
+                                "link": "/category/scat914338/Colchones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas Nido",
+                                "link": "/category/cat90006/Camas-Nido",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas Funcionales",
+                                "link": "/category/scat526803/Camas-Funcionales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camarotes",
+                                "link": "/category/scat292448/Camarotes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas Infantiles",
+                                "link": "/category/cat680002/Camas-Infantiles",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Muebles de Oficina y Escritorio",
+                        "link": "/landing/scat962682/Muebles-de-Oficina-y-Escritorio",
+                        "leafCategories": [
+                            {
+                                "label": "Sillas de Escritorio",
+                                "link": "/category/cat1050046/Sillas-de-Escritorio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Escritorios",
+                                "link": "/category/scat100567/Escritorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lockers",
+                                "link": "/category/scat100581/Lockers",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Gabinetes y Kardex",
+                                "link": "/category/scat304758/Gabinetes-y-Kardex",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sillas y Banquetas de Espera",
+                                "link": "/category/scat962675/Sillas-y-Banquetas-de-Espera",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Estantes Melamina",
+                                "link": "/category/cat4850214/Estantes-Melamina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mesa de Reuniones",
+                                "link": "/category/cat3300001/Mesa-de-Reuniones",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Muebles de Living y Estar",
+                        "link": "/landing/cat180005/Muebles-de-Living-y-Estar",
+                        "leafCategories": [
+                            {
+                                "label": "Futones y Sofás",
+                                "link": "/category/cat4850237/Futones-y-Sofas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles de Bar",
+                                "link": "/category/cat1930015/Muebles-de-Bar",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Racks y Soportes de TV",
+                                "link": "/category/scat100569/Racks-y-Soportes-de-TV",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mesas de Centro, Laterales y Arrimos",
+                                "link": "/category/scat100551/Mesas-de-Centro,-Laterales-y-Arrimos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Banquetas y Pouf",
+                                "link": "/category/scat292444/Banquetas-y-Pouf",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Poltronas y Sitiales",
+                                "link": "/category/cat1130138/Poltronas-y-Sitiales",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Muebles de Comedor",
+                        "link": "/landing/scat962671/Muebles-de-Comedor",
+                        "leafCategories": [
+                            {
+                                "label": "Juego de Comedor",
+                                "link": "/category/scat250758/Juego-de-Comedor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mesas de Comedor",
+                                "link": "/category/scat887595/Mesas-de-Comedor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sillas de Comedor",
+                                "link": "/category/scat583462/Sillas-de-Comedor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Vitrina y Buffet",
+                                "link": "/category/cat4850587/Vitrina-y-Buffet",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles de Bar",
+                                "link": "/category/cat1930015/Muebles-de-Bar",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Muebles de Dormitorio",
+                        "link": "/landing/scat962678/Muebles-de-Dormitorio",
+                        "leafCategories": [
+                            {
+                                "label": "Clósets",
+                                "link": "/category/scat100580/Closets",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Futones y Sofacamas",
+                                "link": "/category/scat299159/Futones-y-Sofacamas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Veladores",
+                                "link": "/category/scat304895/Veladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Respaldos",
+                                "link": "/category/cat8980002/Respaldos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cómodas",
+                                "link": "/category/scat291785/Comodas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Zapateros",
+                                "link": "/category/cat8980004/Zapateros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles Infantiles",
+                                "link": "/landing/scat964158/Muebles-Infantiles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Banquetas y Pouf",
+                                "link": "/category/scat292444/Banquetas-y-Pouf",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Poltronas y Sitiales",
+                                "link": "/category/cat1130138/Poltronas-y-Sitiales",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Muebles de Terraza",
+                        "link": "/landing/cat4850356/Muebles-de-Terraza",
+                        "leafCategories": [
+                            {
+                                "label": "Juegos de Terraza",
+                                "link": "/category/cat4850272/Juegos-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mesas de Terraza",
+                                "link": "/category/scat457297/Mesas-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sofás y Sillones de Terraza",
+                                "link": "/category/cat9120011/Sofas-y-Sillones-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sillas de Terraza y Pisos",
+                                "link": "/category/scat546567/Sillas-de-Terraza-y-Pisos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sillones Columpios y Sillas Colgantes",
+                                "link": "/category/scat236422/Sillones-Columpios-y-Sillas-Colgantes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Escaños y Bancos de Jardín",
+                                "link": "/category/scat368387/Escanos-y-Bancos-de-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Hamacas y Reposeras",
+                                "link": "/category/scat368391/Hamacas-y-Reposeras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Muebles de Exterior",
+                                "link": "/category/cat9120014/Muebles-de-Exterior",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Organización",
+                        "link": "/landing/cat1420057/Organizacion",
+                        "leafCategories": [
+                            {
+                                "label": "Organización de Dormitorio",
+                                "link": "/category/cat1420083/Organizacion-de-Dormitorio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Escritorio",
+                                "link": "/category/scat100575/Organizacion-de-Escritorio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización Infantil",
+                                "link": "/category/scat915260/Organizacion-Infantil",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Cocina",
+                                "link": "/category/cat1420109/Organizacion-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Baño",
+                                "link": "/category/cat920075/Organizacion-de-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Organización de Viaje",
+                                "link": "/category/cat4850368/Organizacion-de-Viaje",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mudanza",
+                                "link": "/category/cat3140013/Mudanza",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Estanterias, Cajas y Perchas",
+                        "link": "/landing/cat10880001/Estanterias,-Cajas-y-Perchas",
+                        "leafCategories": [
+                            {
+                                "label": "Estanterías",
+                                "link": "/category/cat2710004/Estanterias",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Repisas",
+                                "link": "/category/cat1420079/Repisas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Soportes, Rieles y Escuadras",
+                                "link": "/category/cat1420081/Soportes,-Rieles-y-Escuadras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas Organizadoras y Canastos Plásticos ",
+                                "link": "/category/cat1420059/Cajas-Organizadoras-y-Canastos-Plasticos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Perchas, Percheros y Ganchos",
+                                "link": "/category/cat1420135/Perchas,-Percheros-y-Ganchos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Decoración, Menaje e Iluminación",
+                "link": "cat8720066",
+                "subCategories": [
+                    {
+                        "label": "Alfombras y Cubrepisos",
+                        "link": "/landing/scat967185/Alfombras-y-Cubrepisos",
+                        "leafCategories": [
+                            {
+                                "label": "Alfombras decorativas",
+                                "link": "/category/scat872088/Alfombras-decorativas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Alfombras Infantiles y Goma Eva",
+                                "link": "/category/cat4850028/Alfombras-Infantiles-y-Goma-Eva",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Antideslizantes y Accesorios para Alfombras",
+                                "link": "/category/scat337162/Antideslizantes-y-Accesorios-para-Alfombras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Limpiapies",
+                                "link": "/category/scat337166/Limpiapies",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubrepisos",
+                                "link": "/category/cat2670003/Cubrepisos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pasto Sintético",
+                                "link": "/category/cat860002/Pasto-Sintetico",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Cortinas y Rollers",
+                        "link": "/landing/scat963247/Cortinas-y-Rollers",
+                        "leafCategories": [
+                            {
+                                "label": "Cortinas Roller",
+                                "link": "/category/scat326933/Cortinas-Roller",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortinas de Tela",
+                                "link": "/category/scat326932/Cortinas-de-Tela",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Velos y Visillos",
+                                "link": "/category/scat326931/Velos-y-Visillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Barras y Rieles para cortinas",
+                                "link": "/category/scat326936/Barras-y-Rieles-para-cortinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Persianas",
+                                "link": "/category/scat326935/Persianas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortinas de Cocina",
+                                "link": "/category/cat4850153/Cortinas-de-Cocina",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Iluminación Interior",
+                        "link": "/landing/scat963245/Iluminacion-Interior",
+                        "leafCategories": [
+                            {
+                                "label": "Lámparas Colgantes y Techo",
+                                "link": "/category/scat303247/Lamparas-Colgantes-y-Techo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lámparas de Mesa y Escritorio",
+                                "link": "/category/cat2930131/Lamparas-de-Mesa-y-Escritorio",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lámparas de Pie",
+                                "link": "/category/cat520042/Lamparas-de-Pie",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lámparas Infantiles",
+                                "link": "/category/scat915264/Lamparas-Infantiles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Apliqués, Focos y Plafones",
+                                "link": "/category/scat303243/Apliques,-Focos-y-Plafones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ampolletas y Tubos",
+                                "link": "/category/scat963240/Ampolletas-y-Tubos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Focos Empotrados y Paneles Led",
+                                "link": "/category/cat2930133/Focos-Empotrados-y-Paneles-Led",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Iluminación Comercial",
+                                "link": "/category/cat5030015/Iluminacion-Comercial",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cintas y Luces Led",
+                                "link": "/category/cat3560008/Cintas-y-Luces-Led",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Iluminación de Baño y Cocina",
+                                "link": "/category/cat1640004/Iluminacion-de-Bano-y-Cocina",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Menaje Mesa",
+                        "link": "/landing/cat10890003/Menaje-Mesa",
+                        "leafCategories": [
+                            {
+                                "label": "Juegos de Loza y Vajillas",
+                                "link": "/category/cat4850316/Juegos-de-Loza-y-Vajillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubiertos",
+                                "link": "/category/scat317784/Cubiertos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Vasos y Copas",
+                                "link": "/category/cat2960011/Vasos-y-Copas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Dispensadores de Vidrio y Jarras",
+                                "link": "/category/scat317806/Dispensadores-de-Vidrio-y-Jarras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Complementos de Mesa",
+                                "link": "/category/cat4850026/Complementos-de-Mesa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bar y Cóctel",
+                                "link": "/category/cat1020008/Bar-y-Coctel",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Café y Té",
+                                "link": "/category/cat4850085/Cafe-y-Te",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Mesa",
+                                "link": "/category/cat920058/Textil-Mesa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Infantil",
+                                "link": "/category/scat915263/Menaje-Infantil",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Empresas",
+                                "link": "/category/cat11620001/Menaje-Empresas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Decoración",
+                        "link": "/landing/scat963246/Decoracion",
+                        "leafCategories": [
+                            {
+                                "label": "Espejos",
+                                "link": "/category/cat5580001/Espejos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Decoración de Pared",
+                                "link": "/category/scat963248/Decoracion-de-Pared",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Papel Mural y Guardas",
+                                "link": "/category/scat358517/Papel-Mural-y-Guardas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fotomurales y Autoadhesivos",
+                                "link": "/category/cat1500020/Fotomurales-y-Autoadhesivos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Separadores de Ambiente",
+                                "link": "/category/cat3830001/Separadores-de-Ambiente",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Adornos Decorativos",
+                                "link": "/category/scat963256/Adornos-Decorativos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas y Canastos Decorativos",
+                                "link": "/category/scat874934/Cajas-y-Canastos-Decorativos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Decoración Infantil",
+                                "link": "/landing/cat2960061/Decoracion-Infantil",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Textil Hogar y Accesorios de Baño",
+                        "link": "/landing/cat10890020/Textil-Hogar-y-Accesorios-de-Bano",
+                        "leafCategories": [
+                            {
+                                "label": "Cojines Decorativos",
+                                "link": "/category/scat326917/Cojines-Decorativos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ropa de Cama",
+                                "link": "/category/scat914570/Ropa-de-Cama",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Mesa",
+                                "link": "/category/cat920058/Textil-Mesa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Cocina",
+                                "link": "/category/scat326924/Textil-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios y Textil de Baño ",
+                                "link": "/category/scat963250/Accesorios-y-Textil-de-Bano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Almohadas y Fundas de Almohadas",
+                                "link": "/category/scat326916/Almohadas-y-Fundas-de-Almohadas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Iluminación Exterior",
+                        "link": "/landing/scat963244/Iluminacion-Exterior",
+                        "leafCategories": [
+                            {
+                                "label": "Reflectores",
+                                "link": "/category/cat1490026/Reflectores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Faroles ",
+                                "link": "/category/cat4850220/Faroles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Apliqués Exterior y Focos Tortuga",
+                                "link": "/category/scat857483/Apliques-Exterior-y-Focos-Tortuga",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cintas y Luces Led",
+                                "link": "/category/cat3560008/Cintas-y-Luces-Led",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Estacas para Jardín",
+                                "link": "/category/scat857484/Estacas-para-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Focos Solares",
+                                "link": "/category/cat3560010/Focos-Solares",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Iluminación de Piso y Muro",
+                                "link": "/category/cat11570012/Iluminacion-de-Piso-y-Muro",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Menaje Cocina",
+                        "link": "/landing/cat10890001/Menaje-Cocina",
+                        "leafCategories": [
+                            {
+                                "label": "Baterías de Cocina y Ollas",
+                                "link": "/category/cat2960003/Baterias-de-Cocina-y-Ollas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sartenes y Woks",
+                                "link": "/category/scat317797/Sartenes-y-Woks",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fuentes y Asaderas",
+                                "link": "/category/cat4850048/Fuentes-y-Asaderas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cuchillos y Tablas",
+                                "link": "/category/cat11370003/Cuchillos-y-Tablas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Utensilios de Cocina",
+                                "link": "/category/cat260028/Utensilios-de-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Termos y Botellas",
+                                "link": "/category/cat11370001/Termos-y-Botellas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Conservadores y Frascos",
+                                "link": "/category/cat480048/Conservadores-y-Frascos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Repostería",
+                                "link": "/category/cat4850572/Reposteria",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Textil Cocina",
+                                "link": "/category/scat326924/Textil-Cocina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Menaje Empresas",
+                                "link": "/category/cat11620001/Menaje-Empresas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Aire libre, Jardín y Mascotas",
+                "link": "cat983353",
+                "subCategories": [
+                    {
+                        "label": "Jardín",
+                        "link": "/landing/scat922352/Jardin",
+                        "leafCategories": [
+                            {
+                                "label": "Herramientas y Maquinaria de Jardín",
+                                "link": "/landing/scat922354/Herramientas-y-Maquinaria-de-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bodegas, Organizadores e Invernaderos",
+                                "link": "/category/cat2960111/Bodegas,-Organizadores-e-Invernaderos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Maceteros, Portamaceteros y Accesorios",
+                                "link": "/category/scat923315/Maceteros,-Portamaceteros-y-Accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Plantas y Pasto",
+                                "link": "/landing/cat4850437/Plantas-y-Pasto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tierras, Semillas y Fertilizantes",
+                                "link": "/category/cat2960112/Tierras,-Semillas-y-Fertilizantes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Insecticidas y Repelentes",
+                                "link": "/category/scat880494/Insecticidas-y-Repelentes",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cercos y Enrejados",
+                                "link": "/category/scat880491/Cercos-y-Enrejados",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Huerto Urbano",
+                                "link": "/landing/cat7390001/Huerto-Urbano",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pastelones, Adoquines, Piedra y Mulch",
+                                "link": "/category/cat2920042/Pastelones,-Adoquines,-Piedra-y-Mulch",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Riego de Jardín",
+                                "link": "/landing/scat922355/Riego-de-Jardin",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Mascotas",
+                        "link": "/landing/scat922341/Mascotas",
+                        "leafCategories": [
+                            {
+                                "label": "Alimento para Perros",
+                                "link": "/category/cat4850034/Alimento-para-Perros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Arnés, Collares y Ropa para Perros",
+                                "link": "/category/cat11780008/Arnes,-Collares-y-Ropa-para-Perros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Camas para Perros, Casas y Transporte",
+                                "link": "/category/cat11780009/Camas-para-Perros,-Casas-y-Transporte",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Higiene y Baños para Perros",
+                                "link": "/category/scat882245/Higiene-y-Banos-para-Perros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bebedores y Comederos para Perros",
+                                "link": "/category/scat935109/Bebedores-y-Comederos-para-Perros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Juguetes y Accesorios para Perros",
+                                "link": "/category/cat11780011/Juguetes-y-Accesorios-para-Perros",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Alimento para Gatos",
+                                "link": "/category/cat4850033/Alimento-para-Gatos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Higiene, Baños y Arena para Gatos",
+                                "link": "/category/cat11780012/Higiene,-Banos-y-Arena-para-Gatos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Gateras y Rascadores para Gatos",
+                                "link": "/category/cat8330001/Gateras-y-Rascadores-para-Gatos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios y Juguetes para Gatos",
+                                "link": "/category/cat11780013/Accesorios-y-Juguetes-para-Gatos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Camping",
+                        "link": "/landing/scat923320/Camping",
+                        "leafCategories": [
+                            {
+                                "label": "Carpas",
+                                "link": "/category/scat483161/Carpas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sacos de dormir",
+                                "link": "/category/scat483160/Sacos-de-dormir",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Colchones Inflables y Colchonetas",
+                                "link": "/category/cat330040/Colchones-Inflables-y-Colchonetas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mochilas de camping",
+                                "link": "/category/scat964167/Mochilas-de-camping",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Toldos Comedor",
+                                "link": "/category/cat12180027/Toldos-Comedor",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mesas plegables",
+                                "link": "/category/scat964307/Mesas-plegables",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Neveras y Ice Pack",
+                                "link": "/category/cat1340002/Neveras-y-Ice-Pack",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios de Camping",
+                                "link": "/category/cat330038/Accesorios-de-Camping",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Toallas de Playa",
+                                "link": "/category/cat2020013/Toallas-de-Playa",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Quitasoles de playa",
+                                "link": "/category/cat4850478/Quitasoles-de-playa",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Parrillas",
+                        "link": "/landing/scat923323/Parrillas",
+                        "leafCategories": [
+                            {
+                                "label": "Parrillas a Gas",
+                                "link": "/category/scat354867/Parrillas-a-Gas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Parrillas a Carbón",
+                                "link": "/category/scat354868/Parrillas-a-Carbon",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Parrillas para Quincho",
+                                "link": "/category/cat3320002/Parrillas-para-Quincho",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Parrillas Eléctricas",
+                                "link": "/category/cat1580013/Parrillas-Electricas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Discos, Planchas y Spiedo",
+                                "link": "/category/cat3310004/Discos,-Planchas-y-Spiedo",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cajas Chinas y Hornos",
+                                "link": "/category/cat3310005/Cajas-Chinas-y-Hornos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Quinchos",
+                                "link": "/category/cat3660002/Quinchos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Carbón, Fuelle y Encendedores",
+                                "link": "/category/scat102572/Carbon,-Fuelle-y-Encendedores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios de Parrillas",
+                                "link": "/category/scat943599/Accesorios-de-Parrillas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Juegos y Deportes",
+                        "link": "/landing/scat923324/Juegos-y-Deportes",
+                        "leafCategories": [
+                            {
+                                "label": "Camas Elásticas",
+                                "link": "/category/scat873916/Camas-Elasticas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Juegos Inflables",
+                                "link": "/category/scat346700/Juegos-Inflables",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Juegos Infantiles y casitas",
+                                "link": "/category/scat880293/Juegos-Infantiles-y-casitas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Autos y Motos",
+                                "link": "/category/scat884704/Autos-y-Motos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bicicletas",
+                                "link": "/category/cat570041/Bicicletas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Ping Pong, Taca Taca y Pool",
+                                "link": "/category/cat2960022/Ping-Pong,-Taca-Taca-y-Pool",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fútbol, Básquetbol y Voleibol",
+                                "link": "/category/cat2960020/Futbol,-Basquetbol-y-Voleibol",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Fitness",
+                                "link": "/category/scat964399/Fitness",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Triciclos y correpasillos",
+                                "link": "/category/cat4850564/Triciclos-y-correpasillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Resbalines, Columpios y Balancines",
+                                "link": "/category/scat103218/Resbalines,-Columpios-y-Balancines",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Terrazas",
+                        "link": "/landing/scat964154/Terrazas",
+                        "leafCategories": [
+                            {
+                                "label": "Muebles de Terraza",
+                                "link": "/landing/cat4850356/Muebles-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Toldos y Pérgolas",
+                                "link": "/category/scat273724/Toldos-y-Pergolas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Quitasoles y Bases de Quitasol",
+                                "link": "/category/scat103195/Quitasoles-y-Bases-de-Quitasol",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cierres de Terraza",
+                                "link": "/category/cat4850120/Cierres-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Climatización Exterior",
+                                "link": "/category/cat4780007/Climatizacion-Exterior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Decoración de Exterior",
+                                "link": "/landing/scat923318/Decoracion-de-Exterior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cojines de Terraza",
+                                "link": "/category/cat1360002/Cojines-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Alfombras de Terraza",
+                                "link": "/category/cat5400001/Alfombras-de-Terraza",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubre Terraza y Fundas",
+                                "link": "/category/scat103196/Cubre-Terraza-y-Fundas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Iluminación Exterior",
+                                "link": "/landing/scat963244/Iluminacion-Exterior",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas y Maquinaria de Jardín",
+                        "link": "/landing/scat922354/Herramientas-y-Maquinaria-de-Jardin",
+                        "leafCategories": [
+                            {
+                                "label": "Motosierras",
+                                "link": "/category/cat1410062/Motosierras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortadoras de Pasto",
+                                "link": "/category/cat1450016/Cortadoras-de-Pasto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tractores",
+                                "link": "/category/scat913462/Tractores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Orilladoras y Desbrozadoras",
+                                "link": "/category/cat4930001/Orilladoras-y-Desbrozadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cortasetos y Podadoras",
+                                "link": "/category/scat918832/Cortasetos-y-Podadoras",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Sopladores",
+                                "link": "/category/cat750090/Sopladores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Chipeadores y Partidores de Leña",
+                                "link": "/category/scat914574/Chipeadores-y-Partidores-de-Lena",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Accesorios para Maquinaría de Jardín",
+                                "link": "/category/cat9710001/Accesorios-para-Maquinaria-de-Jardin",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Motocultivadores",
+                                "link": "/category/cat4990001/Motocultivadores",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otras Maquinarias de Jardín",
+                                "link": "/category/cat250021/Otras-Maquinarias-de-Jardin",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Piscinas, Spa e inflables",
+                        "link": "/landing/scat923321/Piscinas,-Spa-e-inflables",
+                        "leafCategories": [
+                            {
+                                "label": "Piscinas Estructurales",
+                                "link": "/category/scat356524/Piscinas-Estructurales",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Piscinas Inflables",
+                                "link": "/category/scat356525/Piscinas-Inflables",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Piscinas de Hormigón",
+                                "link": "/category/cat4850425/Piscinas-de-Hormigon",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Spa de Exterior y Hot Tub",
+                                "link": "/category/cat140024/Spa-de-Exterior-y-Hot-Tub",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Inflables y Juegos de Piscina",
+                                "link": "/category/scat566999/Inflables-y-Juegos-de-Piscina",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mantención de Piscinas",
+                                "link": "/category/cat1340077/Mantencion-de-Piscinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Bombas y Equipos de Piscinas",
+                                "link": "/category/cat9480005/Bombas-y-Equipos-de-Piscinas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Rejas y Seguridad para Piscinas",
+                                "link": "/category/cat1410249/Rejas-y-Seguridad-para-Piscinas",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Automóvil",
+                "link": "scat913458",
+                "subCategories": [
+                    {
+                        "label": "Neumáticos y Llantas",
+                        "link": "/landing/scat348891/Neumaticos-y-Llantas",
+                        "leafCategories": [
+                            {
+                                "label": "Neumáticos",
+                                "link": "/category/cat4850363/Neumaticos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Compresores y Accesorios",
+                                "link": "/category/cat4850542/Compresores-y-Accesorios",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Baterías para autos y Accesorios",
+                        "link": "/landing/scat913758/Baterias-para-autos-y-Accesorios",
+                        "leafCategories": [
+                            {
+                                "label": "Accesorios de Baterías",
+                                "link": "/category/scat348881/Accesorios-de-Baterias",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Baterias",
+                                "link": "/category/scat348880/Baterias",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cargadores y Partidores",
+                                "link": "/category/scat348854/Cargadores-y-Partidores",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Accesorios de Exterior para Autos",
+                        "link": "/landing/scat913824/Accesorios-de-Exterior-para-Autos",
+                        "leafCategories": [
+                            {
+                                "label": "Plumillas",
+                                "link": "/category/scat348884/Plumillas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cadenas de Nieve",
+                                "link": "/category/cat4850084/Cadenas-de-Nieve",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubreautos y Fundas para autos",
+                                "link": "/category/cat4850164/Cubreautos-y-Fundas-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Neblineros y Barras LED",
+                                "link": "/category/cat4850362/Neblineros-y-Barras-LED",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otros Accesorios de exterior para autos",
+                                "link": "/category/cat4850380/Otros-Accesorios-de-exterior-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Protectores antigolpes y rayones",
+                                "link": "/category/cat4850460/Protectores-antigolpes-y-rayones",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Tapas de Ruedas, Antenas y Espejos",
+                                "link": "/category/cat4850543/Tapas-de-Ruedas,-Antenas-y-Espejos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Audio y Video para Autos",
+                        "link": "/landing/cat2930123/Audio-y-Video-para-Autos",
+                        "leafCategories": [
+                            {
+                                "label": "Radios para autos",
+                                "link": "/category/scat524942/Radios-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Parlantes y Amplificadores para autos",
+                                "link": "/category/scat695327/Parlantes-y-Amplificadores-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cables y accesorios para autos",
+                                "link": "/category/cat4850082/Cables-y-accesorios-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cámaras de retroceso y DVR",
+                                "link": "/category/cat4850091/Camaras-de-retroceso-y-DVR",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Manos Libre",
+                                "link": "/category/cat4850332/Manos-Libre",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Pantallas para autos",
+                                "link": "/category/cat4850392/Pantallas-para-autos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Limpieza para autos",
+                        "link": "/landing/scat913761/Limpieza-para-autos",
+                        "leafCategories": [
+                            {
+                                "label": "Aromas",
+                                "link": "/category/cat540029/Aromas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Brillo y Pulido para Auto",
+                                "link": "/category/scat348886/Brillo-y-Pulido-para-Auto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Hidrolavadoras y Accesorios",
+                                "link": "/category/cat340052/Hidrolavadoras-y-Accesorios",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavado de Carrocería",
+                                "link": "/category/cat4850281/Lavado-de-Carroceria",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavado de Neumáticos y Llantas",
+                                "link": "/category/cat4850282/Lavado-de-Neumaticos-y-Llantas",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Lavado de Vidrios y Espejos",
+                                "link": "/category/cat4850283/Lavado-de-Vidrios-y-Espejos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Paños y utensilios para el auto",
+                                "link": "/category/scat348883/Panos-y-utensilios-para-el-auto",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Limpieza y Aspirado de interior de autos",
+                                "link": "/category/scat348885/Limpieza-y-Aspirado-de-interior-de-autos",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Accesorios de Interior para Autos",
+                        "link": "/landing/scat348888/Accesorios-de-Interior-para-Autos",
+                        "leafCategories": [
+                            {
+                                "label": "Cortinas y Tapasoles",
+                                "link": "/category/cat4850154/Cortinas-y-Tapasoles",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Cubreasientos, Cubrevolantes y Pisos",
+                                "link": "/category/cat4850161/Cubreasientos,-Cubrevolantes-y-Pisos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Otros accesorios de interior",
+                                "link": "/category/cat4850381/Otros-accesorios-de-interior",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Portacelulares, Cargadores e Inversores de corriente",
+                                "link": "/category/cat4850449/Portacelulares,-Cargadores-e-Inversores-de-corriente",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Seguridad, Lubricantes y Otros",
+                        "link": "/landing/cat8720046/Seguridad,-Lubricantes-y-Otros",
+                        "leafCategories": [
+                            {
+                                "label": "Aceites, Agua y Lubricantes para autos",
+                                "link": "/category/cat4850011/Aceites,-Agua-y-Lubricantes-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Amarres, Eslingas y Pulpos",
+                                "link": "/category/cat380045/Amarres,-Eslingas-y-Pulpos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Mantención y Repuestos para autos",
+                                "link": "/category/cat4850334/Mantencion-y-Repuestos-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Portaequipajes y Equipamiento para Viaje",
+                                "link": "/category/scat934757/Portaequipajes-y-Equipamiento-para-Viaje",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad para Autos",
+                                "link": "/category/scat934755/Seguridad-para-Autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Seguridad Vial",
+                                "link": "/category/scat348855/Seguridad-Vial",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Herramientas y Equipos Mecánico",
+                        "link": "/landing/scat922591/Herramientas-y-Equipos-Mecanico",
+                        "leafCategories": [
+                            {
+                                "label": "Gatas y Banquillos",
+                                "link": "/category/scat326861/Gatas-y-Banquillos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas manuales para autos",
+                                "link": "/category/scat326863/Herramientas-manuales-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas mecánicas para autos",
+                                "link": "/category/scat326862/Herramientas-mecanicas-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Herramientas neumáticas para autos",
+                                "link": "/category/cat4850251/Herramientas-neumaticas-para-autos",
+                                "isHighlightLink": false
+                            },
+                            {
+                                "label": "Llaves de rueda",
+                                "link": "/category/cat3240028/Llaves-de-rueda",
+                                "isHighlightLink": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "success": true
+}
